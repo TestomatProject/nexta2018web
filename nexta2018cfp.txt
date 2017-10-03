@@ -1,0 +1,135 @@
+Call for Papers NEXTA 2018
+
+NEXTA 2018 - 1st IEEE Workshop on NEXt level of Test Automation
+http://www.testomatproject.eu/nexta2018
+
+April, 2018, Västerås, Sweden
+Co-located with IEEE International Conference on Software Testing, Verification
+and Validation (ICST 2018)
+
+
++++ Important Dates +++
+
+Submission: January 12, 2018
+Notification: February 19, 2018
+Camera ready: February 28, 2018
+Workshop: April 9, 2018
+
+
++++ Theme and Goals +++
+
+Test automation has been an acknowledged software engineering best practice
+for years. However, the topic involves more than the repeated execution of test
+cases that often comes first to mind. Simply running test cases using a unit
+testing framework is no longer enough for test automation to keep up with the
+ever-shorter release cycles driven by continuous deployment and technological
+innovations such as micro-services and DevOps pipelines.
+
+Now test automation needs to rise to the next level by going beyond mere test
+execution. The NEXTA workshop will explore how to advance test automation to
+further contribute to software quality in the context of tomorrow's rapid
+release cycles. Take-aways for industry practitioners and academic researchers
+will encompass test case generation, automated test result analysis, test suite
+assessment and maintenance, and infrastructure for the future of test
+automation.
+
+
++++ Topics of Interest +++
+
+NEXTA solicits contributions targeting all aspects of test automation, from
+initial test design to automated verdict analysis. Topics of interest include,
+but are not limited to, the following:
+
+ + Test execution automation
+ + Test case generation
+ + Automatic test design generation
+ + Analytics, learning and big data in relation to test automation
+ + Automatic aspects management in test, progress, reporting, planning etc.
+ + Visualization of test
+ + Evolution of test automation
+ + Test suite architecture and infrastructure
+ + Test environment, simulation, and other contextual issues for automated
+   testing
+ + Test tools, frameworks, and general support for test automation
+ + Testing in an agile and continuous integration context, and testing within
+   DevOps
+ + Orchestration of test
+ + Metrics, benchmarks, and estimation on any type of test automation
+ + Any type of test technologies relying on automation of test
+ + Process improvements and assessments related to test automation
+ + Test automation maturity and experience reports on test automation
+ + Automatic retrieval of test data and test preparation aspect
+ + Maintainability, monitoring and refactoring of automated test suites
+ + Training and education on automated testing
+ + Automated test for product lines and high-variability systems
+ + Test automation patterns
+ + Automated test oracles
+
+
+
++++ Submission and Proceedings +++
+
+NEXTA solicits the following types of original papers:
+ + Technical Papers (max. 8 pages in IEEE format). Full papers presenting
+   research results or industrial practices related to the next generation of
+   test automation.
+ + Position and Experience Papers (max. 4 pages in IEEE format). Short papers
+   introducing challenges, visions, positions or preliminary results within the
+   scope of the workshop. Experience reports and papers on open challenges in
+   industry are especially welcome.
+ + Tool Papers (max. 4 pages in IEEE format). Tool papers introduce tools that
+   implement an approach to support the transition to the next generation of
+   test automation. A tool paper submission must include either 1) a URL to a
+   screencast of the tool in action, or 2) a runnable version of the tool for
+   evaluation by the program committee.
+ + Abstracts with Video submission (Not exceeding more than 8 minutes) -
+   These videos will be shown separate - and will not be included in the
+   publications, but as a parallel source of information. The video submission
+   must be linked and visible on open source tools, and can include a
+   presentation, demo or experience on test automation.
+
+Authors should submit a PDF version of their paper through the NEXTA 2018
+paper submission site: https://easychair.org/conferences/?conf=nexta2018.
+All accepted papers will be part of the ICST joint workshop proceedings
+published in the IEEE Digital Library.
+
+
++++ Organization and Contact +++
+
+ + Sigrid Eldh, Ericsson, Sweden, General Chair
+ + Adnan Causevic, Mälardalen University (MDH), Sweden (Program Co-Chair)
+ + Markus Borg, RISE SICS, Sweden (Program Co-Chair)
+ + Serge Demeyer, University of Antwerp, Belgium (Program Co-Chair)
+
+If you have any questions or require more information on TAIC PART 2018, please
+visit http://www.testomatproject.eu/nexta2018 or write to
+nexta2018@easychair.org.
+
+
++++ Program Committee (to be extended) +++
+
+ + Tanja Vos, Universidad Politecnica Valencia, Spain and Open University
+   Netherlands
+ + Serge Demeyer, University of Antwerp, Belgium
+ + Markus Borg, RISE Swedish Institute of Computer Science, Sweden
+ + Adnan Causevic, Mälardalen University, Sweden
+ + Marc-Florian Wendland, Fraunhofer Fokus, Germany
+ + Michael van der Bijl, Axini, Netherlands
+ + Kristian Wiklund, Ericsson, Sweden
+ + Leire Etxeberria Elorza, University de Mondragon, Spain
+ + Vahid Goursi, Wageningen University, Netherlands
+ + Michael Felderer, University of Innsbruck, Austria
+ + Ali Parsai, University of Antwerp, Belgium
+ + Franz Wotawa, Graz University of Technology, Austria
+ + Karl Meinke, The Royal Institute of Technology, Sweden
+ + Damiano Torre, Carleton University, Canada
+ + Andrew V. Jones, Vector Graphics,  UK
+ + Hyonsook Do, University of North Texas, US
+ + Alessandra Bagnato, Softeam, France
+ + Mika Mäntylä, University of Oulu
+ + Yves Labiche, Carleton University, Canada
+ + Elaine Weyuker, Rutger University, US and Mälardalen University, Sweden
+ + Benoit Baudry, Royal Institute of Technology, Sweden
+ + Tao Yue, Simula, Norway
+ + Bernard Leger, Smarttest, France
+ + Ayse Tosun, Istanbul Technical University, Turkey

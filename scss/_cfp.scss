@@ -1,0 +1,38 @@
+// Styling for the cfp section
+#cfp {
+
+  max-width: 960px;
+  margin: 0px auto; /*auto centers the container */
+  //padding: 3.84615384615385%; /* 25/650 */
+
+  /*CSS3 multiple columns.*/
+  /* Get em size for colums: 184/16 */
+  .multi-columns
+  {
+      -moz-column-width: 15.0em; /* Firefox */
+      -webkit-column-width: 15.0em; /* webkit, Safari, Chrome */
+      column-width: 15.0em;
+  }
+  /*remove standard list and bullet formatting from ul*/
+  .multi-columns ul
+  {
+      margin: 0;
+      padding: 0;
+      text-align: left;
+      list-style-type: circle;
+      list-style-position: inside;
+  }
+  /* correct webkit/chrome uneven margin on the first column*/
+  .multi-columns ul li:first-child
+  {
+      margin-top:0px;
+  }
+
+  .single-column ul {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    list-style-type: circle;
+    list-style-position: inside;
+  }
+}
