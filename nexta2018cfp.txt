@@ -10,7 +10,7 @@ and Validation (ICST 2018)
 
 +++ Important Dates +++
 
-Submission: January 9, 2018
+Submission: January 12, 2018
 Notification: February 19, 2018
 Camera ready: February 28, 2018
 Workshop: April 9, 2018
