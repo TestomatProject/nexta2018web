@@ -117,7 +117,7 @@ nexta2018@easychair.org.
  + Michael van der Bijl, Axini, Netherlands
  + Kristian Wiklund, Ericsson, Sweden
  + Leire Etxeberria Elorza, University de Mondragon, Spain
- + Vahid Goursi, Wageningen University, Netherlands
+ + Vahid Garousi, Wageningen University, Netherlands
  + Michael Felderer, University of Innsbruck, Austria
  + Ali Parsai, University of Antwerp, Belgium
  + Franz Wotawa, Graz University of Technology, Austria
